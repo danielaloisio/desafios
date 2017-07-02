@@ -1,0 +1,229 @@
+2017-07-02 20:02:58,710 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 20:03:03,983 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:03,983 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:03:03,985 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:03,985 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:03:05,617 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:05,618 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:03:05,619 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:05,619 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:03:27,913 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:27,913 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:03:27,913 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:03:27,914 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:10:41,613 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:41,613 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:10:41,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:41,638 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:10:42,708 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:42,709 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:10:42,710 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:42,716 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:10:45,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:45,410 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:10:45,414 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:10:45,418 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:13:08,326 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:13:08,326 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:13:08,327 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:13:08,331 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:13:14,504 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:13:14,510 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:13:14,520 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:13:14,526 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:14:35,795 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:14:35,795 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:14:35,796 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:14:35,801 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:17:27,340 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:27,344 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:17:27,347 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:27,350 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:17:41,815 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:41,815 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:17:41,816 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:41,821 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:17:53,503 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:53,506 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:17:53,510 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:17:53,514 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:18:25,815 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:18:25,815 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:18:25,816 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:18:25,820 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:20:12,714 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:20:12,718 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:20:12,721 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:20:12,725 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:20:50,399 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:20:50,399 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:20:50,400 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:20:50,405 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:21:18,241 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:21:18,246 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:21:18,253 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:21:18,257 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:21:20,125 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:21:20,125 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:21:20,126 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:21:20,132 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:22:04,347 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:04,351 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:22:04,354 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:04,358 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:22:06,030 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:06,031 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:22:06,031 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:06,036 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:22:29,882 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:29,888 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:22:29,893 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:22:29,896 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:23:13,703 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:13,703 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:23:13,704 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:13,709 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:23:29,900 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:29,903 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:23:29,907 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:29,910 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:23:58,295 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:58,296 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:23:58,297 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:23:58,302 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:32:20,489 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:32:20,497 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:32:20,504 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:32:20,508 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:33:52,679 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:33:52,680 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:33:52,681 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:33:52,685 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:34:17,079 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:34:17,083 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:34:17,087 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:34:17,091 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:34:29,965 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:34:29,965 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:34:29,966 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:34:29,970 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:37:14,582 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:37:14,587 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:37:14,592 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:37:14,596 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:40:28,005 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:40:28,006 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:40:28,006 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:40:28,011 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:40:47,924 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:40:47,928 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:40:47,932 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:40:47,936 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:41:03,364 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:41:03,364 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:41:03,365 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:41:03,370 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:42:14,710 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:42:14,714 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:42:14,718 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:42:14,723 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:45:17,652 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:45:17,652 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:45:17,653 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:45:17,657 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:45:30,595 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:45:30,599 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:45:30,605 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:45:30,610 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:46:28,358 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:46:28,359 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:46:28,359 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:46:28,365 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:08,235 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:08,238 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:08,242 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:08,245 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:13,201 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:13,201 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:13,202 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:13,207 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:19,635 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:19,638 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:19,642 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:19,646 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:22,381 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:22,381 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:22,381 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:22,386 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:25,699 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:25,706 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:25,713 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:25,721 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:28,054 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:28,054 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:28,055 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:28,061 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:30,145 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:30,151 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:30,157 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:30,161 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:47:37,032 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:37,032 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:47:37,033 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:47:37,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:48:12,409 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:12,413 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:48:12,417 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:12,423 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:48:16,660 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:16,660 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:48:16,661 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:16,666 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:48:30,881 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:30,885 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:48:30,889 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:48:30,893 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:49:17,286 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:49:17,286 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:49:17,287 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:49:17,292 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:49:19,241 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:49:19,246 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:49:19,249 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:49:19,253 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:51:50,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:51:50,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:51:50,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:51:50,394 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:52:07,146 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:52:07,151 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:52:07,157 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:52:07,162 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:52:28,240 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:52:28,241 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:52:28,242 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:52:28,246 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:55:57,709 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:55:57,713 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:55:57,717 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:55:57,721 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:56:02,256 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:56:02,256 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:56:02,257 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:56:02,262 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:56:23,355 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:56:23,360 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:56:23,364 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:56:23,368 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:57:10,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:10,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:57:10,383 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:10,389 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:57:27,481 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:27,487 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:57:27,492 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:27,496 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 20:57:29,997 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:29,998 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 20:57:29,998 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 20:57:30,003 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
