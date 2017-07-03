@@ -27,3 +27,9 @@ Construir um robô que nos envie essa lista via Telegram sempre que receber o co
 
 
 Qualquer método para coletar os dados é válido. Caso não saiba por onde começar, procure por SeleniumHQ (Java), PhantomJS (Javascript) e Scrapy (Python).
+
+
+
+//BotName : Kobra123_bot
+//App Class: get list of data on the reddit website.
+//Bot class: bot telegram

@@ -2345,3 +2345,7 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2017-07-03 01:46:05,058 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
 2017-07-03 01:46:05,063 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-03 01:46:05,067 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-03 01:48:47,168 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 01:48:47,169 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-03 01:48:47,175 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 01:48:47,180 [Worker-379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
