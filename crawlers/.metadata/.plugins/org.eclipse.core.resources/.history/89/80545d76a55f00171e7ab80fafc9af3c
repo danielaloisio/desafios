@@ -1,0 +1,48 @@
+package com.br.crawler;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.br.crawler.model.RedditData;
+
+public class App {
+	
+	public static void main(String[] args){
+		/*String input = "askreddit;worldnews;cats";
+
+		String[] subReddits = input.split(";");
+
+		Crawler crawler = new Crawler();
+		List<RedditData>redditDatas = crawler.getRedditData(subReddits);
+		
+		for (RedditData item : redditDatas) {
+			System.out.println("SubReddid: " + item.getSubReddit());
+			System.out.println("Link: " + item.getLinkThread());
+			System.out.println("Title: " + item.getTitleThread());
+			System.out.println("Up votes: " + item.getUpVotes());
+			System.out.println("\n");
+		}*/
+		
+		 // Telling the system where to find the Chrome driver
+        System.setProperty(
+                "webdriver.chrome.driver",
+                "C:/Users/Avell B155/Desktop/bot/chromedriver.exe");
+
+        WebDriver webDriver = new ChromeDriver();
+
+        // Open google.com
+        webDriver.navigate().to("http://www.google.com");
+
+        String html = webDriver.getPageSource();
+
+        // Printing result here.
+        System.out.println(html);
+
+        webDriver.close();
+        webDriver.quit();
+		
+	}
+
+}

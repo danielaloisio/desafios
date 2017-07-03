@@ -12,7 +12,7 @@ import com.br.crawler.constants.CrawlerConst;
 import com.br.crawler.model.RedditData;
 
 public class Crawler {
-
+	
 	public List<RedditData> getRedditData(String[] subReddits){
 		
 		List<RedditData> redditDatas = new ArrayList<RedditData>();

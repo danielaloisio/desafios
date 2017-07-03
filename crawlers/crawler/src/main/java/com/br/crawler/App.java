@@ -1,11 +1,15 @@
 package com.br.crawler;
 
 import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 import com.br.crawler.model.RedditData;
 
 public class App {
 	
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args){
 		String input = "askreddit;worldnews;cats";
 
 		String[] subReddits = input.split(";");
@@ -20,7 +24,7 @@ public class App {
 			System.out.println("Up votes: " + item.getUpVotes());
 			System.out.println("\n");
 		}
-		
+
 	}
 
 }
