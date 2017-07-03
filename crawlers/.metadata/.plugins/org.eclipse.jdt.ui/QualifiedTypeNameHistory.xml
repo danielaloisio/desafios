@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.TelegramBot"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.model.request.ParseMode"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.model.request.ForceReply"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.response.SendResponse"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.model.Message"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.TelegramBotAdapter"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.bots.TelegramLongPollingBot"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.model.Update"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.api.objects.Update"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.request.SendMessage"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.api.methods.send.SendMessage"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.exceptions.TelegramApiException"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.ApiContextInitializer"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.TelegramBotsApi"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.BrowserVersion"/>
+<fullyQualifiedTypeName name="com.br.crawler.constants.CrawlerConst"/>
+<fullyQualifiedTypeName name="com.br.crawler.model.RedditData"/>
+</qualifiedTypeNameHistroy>

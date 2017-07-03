@@ -1,5 +1,0 @@
-package com.br.crawler;
-
-public class Bot extends TelegramLongPollingBot {
-
-}

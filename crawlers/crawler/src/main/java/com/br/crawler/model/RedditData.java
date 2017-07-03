@@ -2,13 +2,13 @@ package com.br.crawler.model;
 
 public class RedditData {
 	
-	public String subReddit;
+	private String subReddit;
 	
-	public String titleThread;
+	private String titleThread;
 	
-	public String upVotes;
+	private String upVotes;
 	
-	public String linkThread;
+	private String linkThread;
 	
 	public RedditData(){
 		

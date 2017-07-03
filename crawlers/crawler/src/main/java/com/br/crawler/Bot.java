@@ -34,9 +34,9 @@ public class Bot extends TelegramLongPollingBot {
 
 				for (RedditData redditData : redditDatas) {
 
-					messageList += "SubReddit: " + redditData.getSubReddit() + "\n" + "LinkThread: "
-							+ redditData.getLinkThread() + "\n" + "TitleThread: " + redditData.getTitleThread() + "\n"
-							+ "UpVote: " + redditData.getUpVotes() + "\n\n";
+					messageList += "SubReddit: " + redditData.getSubReddit() + "\n" + "Link: "
+							+ redditData.getLinkThread() + "\n" + "Title: " + redditData.getTitleThread() + "\n"
+							+ "Up Votes: " + redditData.getUpVotes() + "\n\n";
 				}
 
 			} else {

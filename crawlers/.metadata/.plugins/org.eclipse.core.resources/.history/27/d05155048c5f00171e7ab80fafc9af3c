@@ -1,7 +1,0 @@
-package com.br.crawler;
-
-import com.pengrad.telegrambot.TelegramBot;
-
-public class Bot extends TelegramBot {
-
-}
