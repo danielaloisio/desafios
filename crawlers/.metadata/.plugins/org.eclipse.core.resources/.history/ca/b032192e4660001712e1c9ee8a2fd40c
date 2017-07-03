@@ -29,9 +29,16 @@ public class Bot extends TelegramLongPollingBot {
 		if (update.hasMessage() && update.getMessage().hasText()) {
 
 			String messageList = "";
-			
 
 			if (update.getMessage().getText().equals("/NadaPraFazer askreddit;worldnews;cats")) {
+				
+				String input = "askreddit;worldnews;cats";
+
+				String[] subReddits = input.split(";");
+
+				Crawler crawler = new Crawler();
+				redditDatas = crawler.getRedditData(subReddits);
+				
 
 				for (RedditData redditData : redditDatas) {
 
@@ -56,12 +63,12 @@ public class Bot extends TelegramLongPollingBot {
 
 	public static void main(String[] args) {
 
-		String input = "askreddit;worldnews;cats";
+		/*String input = "askreddit;worldnews;cats";
 
 		String[] subReddits = input.split(";");
 
 		Crawler crawler = new Crawler();
-		redditDatas = crawler.getRedditData(subReddits);
+		redditDatas = crawler.getRedditData(subReddits);*/
 
 		ApiContextInitializer.init();
 

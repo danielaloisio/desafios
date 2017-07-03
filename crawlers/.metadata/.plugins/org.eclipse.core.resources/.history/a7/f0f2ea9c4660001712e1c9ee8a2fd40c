@@ -26,7 +26,7 @@ public class Crawler {
 			List<WebElement> celulas = driver.findElements(By.className("thing"));
 
 			for (WebElement c : celulas) {
-
+				
 				try {
 					int upVotesInteger = Integer.parseInt(c.findElement(By.className("score unvoted")).getText());
 
@@ -38,7 +38,7 @@ public class Crawler {
 						redditData.setUpVotes(c.findElement(By.className("score unvoted")).getText());
 						redditDatas.add(redditData);
 					}
-
+				
 				} catch (Exception e) {
 					// TODO: handle exception
 				}

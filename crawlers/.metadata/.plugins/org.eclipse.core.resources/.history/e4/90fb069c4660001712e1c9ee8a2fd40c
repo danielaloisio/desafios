@@ -26,11 +26,12 @@ public class Crawler {
 			List<WebElement> celulas = driver.findElements(By.className("thing"));
 
 			for (WebElement c : celulas) {
-
+				
 				try {
 					int upVotesInteger = Integer.parseInt(c.findElement(By.className("score unvoted")).getText());
 
 					if (upVotesInteger >= 5000) {
+						
 						RedditData redditData = new RedditData();
 						redditData.setSubReddit(subReddit);
 						redditData.setLinkThread(c.findElement(By.className("title may-blank")).getAttribute("href"));
@@ -38,7 +39,7 @@ public class Crawler {
 						redditData.setUpVotes(c.findElement(By.className("score unvoted")).getText());
 						redditDatas.add(redditData);
 					}
-
+				
 				} catch (Exception e) {
 					// TODO: handle exception
 				}
