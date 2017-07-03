@@ -1,0 +1,9 @@
+package com.br.crawler.constants;
+
+public class CrawlerConst {
+	
+	public static final String GEOCODE_KEY = "AIzaSyALeu-bKXUaAe8USTAoE9GU_tNuZU-sLEQ";
+	
+	private static String URL_REDDIT = "https://www.reddit.com/r/";
+
+}

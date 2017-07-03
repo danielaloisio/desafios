@@ -227,3 +227,603 @@
 2017-07-02 20:57:29,998 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
 2017-07-02 20:57:29,998 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-02 20:57:30,003 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:10:09,193 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 21:10:10,644 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0.pom
+2017-07-02 21:10:10,872 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0.pom
+2017-07-02 21:10:11,058 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.1/gson-2.8.1.pom
+2017-07-02 21:10:11,245 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.1/gson-2.8.1.pom
+2017-07-02 21:10:11,415 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.1/gson-parent-2.8.1.pom
+2017-07-02 21:10:11,580 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.1/gson-parent-2.8.1.pom
+2017-07-02 21:10:11,743 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.pom
+2017-07-02 21:10:11,926 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.pom
+2017-07-02 21:10:12,103 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/parent/3.8.1/parent-3.8.1.pom
+2017-07-02 21:10:12,418 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/parent/3.8.1/parent-3.8.1.pom
+2017-07-02 21:10:12,597 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2017-07-02 21:10:12,775 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2017-07-02 21:10:12,956 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2017-07-02 21:10:13,156 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2017-07-02 21:10:13,370 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/logging-interceptor/3.8.1/logging-interceptor-3.8.1.pom
+2017-07-02 21:10:13,575 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/logging-interceptor/3.8.1/logging-interceptor-3.8.1.pom
+2017-07-02 21:10:13,868 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0.jar
+2017-07-02 21:10:14,475 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0.jar
+2017-07-02 21:10:14,630 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar
+2017-07-02 21:10:15,372 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar
+2017-07-02 21:10:15,530 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.jar
+2017-07-02 21:10:16,501 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.jar
+2017-07-02 21:10:16,662 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar
+2017-07-02 21:10:16,971 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar
+2017-07-02 21:10:17,124 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/logging-interceptor/3.8.1/logging-interceptor-3.8.1.jar
+2017-07-02 21:10:17,413 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/logging-interceptor/3.8.1/logging-interceptor-3.8.1.jar
+2017-07-02 21:10:18,279 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:18,283 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:10:18,287 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:18,287 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:10:18,929 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:18,929 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:10:18,930 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:18,930 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:10:34,834 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 21:10:35,110 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:35,111 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:10:35,112 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:10:35,115 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:45:49,334 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:45:49,334 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:45:49,343 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:45:49,350 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:45:50,416 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:45:50,416 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:45:50,417 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:45:50,422 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:46:11,711 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:11,715 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:46:11,719 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:11,723 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:46:20,269 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:20,269 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:46:20,270 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:20,277 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:46:26,880 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:26,885 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:46:26,890 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:46:26,895 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 21:49:14,831 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:49:14,832 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 21:49:14,833 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 21:49:14,836 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:04:06,247 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:04:06,252 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:04:06,259 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:04:06,265 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:05:33,304 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:05:33,304 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:05:33,306 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:05:33,309 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:07:41,858 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0-sources.jar
+2017-07-02 22:07:42,539 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/pengrad/java-telegram-bot-api/3.1.0/java-telegram-bot-api-3.1.0-sources.jar
+2017-07-02 22:07:42,625 [Worker-119] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.pengrad:java-telegram-bot-api:3.1.0
+2017-07-02 22:07:42,948 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:42,948 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:07:42,955 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:42,955 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:07:44,021 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:44,021 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:07:44,022 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:44,022 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:07:47,552 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:47,558 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:07:47,565 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:07:47,565 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:16:28,110 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:16:28,110 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:16:28,111 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:16:28,111 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:16:36,605 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:16:36,610 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:16:36,615 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:16:36,615 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:22:28,992 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:22:28,993 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:22:28,993 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:22:28,994 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:26:32,684 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:26:32,688 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:26:32,692 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:26:32,692 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:29:10,453 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:29:10,453 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:29:10,454 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:29:10,454 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:37:02,543 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:37:02,547 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:37:02,550 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:37:02,551 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:38:15,788 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:38:15,789 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:38:15,790 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:38:15,790 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:38:36,735 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:38:36,739 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:38:36,743 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:38:36,743 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:47:20,504 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 22:47:21,777 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/telegram/telegrambots/3.1.0/telegrambots-3.1.0.pom
+2017-07-02 22:47:21,963 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/telegram/telegrambots/3.1.0/telegrambots-3.1.0.pom
+2017-07-02 22:47:22,163 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.25.1/jersey-bom-2.25.1.pom
+2017-07-02 22:47:22,490 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.25.1/jersey-bom-2.25.1.pom
+2017-07-02 22:47:22,685 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2017-07-02 22:47:22,872 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2017-07-02 22:47:23,075 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/telegram/telegrambots-meta/3.1.0/telegrambots-meta-3.1.0.pom
+2017-07-02 22:47:23,255 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/telegram/telegrambots-meta/3.1.0/telegrambots-meta-3.1.0.pom
+2017-07-02 22:47:23,413 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2017-07-02 22:47:23,593 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2017-07-02 22:47:23,798 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2017-07-02 22:47:24,027 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2017-07-02 22:47:24,228 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2017-07-02 22:47:24,416 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2017-07-02 22:47:24,733 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2017-07-02 22:47:24,917 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2017-07-02 22:47:25,110 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2017-07-02 22:47:25,301 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2017-07-02 22:47:25,514 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.pom
+2017-07-02 22:47:25,699 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.pom
+2017-07-02 22:47:26,046 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.pom
+2017-07-02 22:47:26,297 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.pom
+2017-07-02 22:47:26,464 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom
+2017-07-02 22:47:26,637 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom
+2017-07-02 22:47:26,798 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20160810/json-20160810.pom
+2017-07-02 22:47:26,996 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20160810/json-20160810.pom
+2017-07-02 22:47:27,205 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.7/jackson-jaxrs-json-provider-2.8.7.pom
+2017-07-02 22:47:27,390 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.7/jackson-jaxrs-json-provider-2.8.7.pom
+2017-07-02 22:47:27,583 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.8.7/jackson-jaxrs-providers-2.8.7.pom
+2017-07-02 22:47:27,787 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.8.7/jackson-jaxrs-providers-2.8.7.pom
+2017-07-02 22:47:27,994 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.7/jackson-jaxrs-base-2.8.7.pom
+2017-07-02 22:47:28,169 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.7/jackson-jaxrs-base-2.8.7.pom
+2017-07-02 22:47:28,349 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.7/jackson-module-jaxb-annotations-2.8.7.pom
+2017-07-02 22:47:28,537 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.7/jackson-module-jaxb-annotations-2.8.7.pom
+2017-07-02 22:47:28,749 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2017-07-02 22:47:28,941 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2017-07-02 22:47:29,136 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.pom
+2017-07-02 22:47:29,339 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.pom
+2017-07-02 22:47:29,532 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:29,710 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:29,970 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:30,387 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:30,595 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.5.0-b32/hk2-bom-2.5.0-b32.pom
+2017-07-02 22:47:30,768 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.5.0-b32/hk2-bom-2.5.0-b32.pom
+2017-07-02 22:47:30,947 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2017-07-02 22:47:31,136 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2017-07-02 22:47:31,357 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.pom
+2017-07-02 22:47:31,548 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.pom
+2017-07-02 22:47:31,790 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2017-07-02 22:47:32,002 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2017-07-02 22:47:32,178 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2017-07-02 22:47:32,365 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2017-07-02 22:47:32,580 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.pom
+2017-07-02 22:47:32,799 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.pom
+2017-07-02 22:47:33,000 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:33,188 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:33,425 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:33,607 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:33,845 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.pom
+2017-07-02 22:47:34,052 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.pom
+2017-07-02 22:47:34,243 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.5.0-b32/hk2-parent-2.5.0-b32.pom
+2017-07-02 22:47:34,475 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.5.0-b32/hk2-parent-2.5.0-b32.pom
+2017-07-02 22:47:34,674 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.pom
+2017-07-02 22:47:34,895 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.pom
+2017-07-02 22:47:35,083 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.pom
+2017-07-02 22:47:35,258 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.pom
+2017-07-02 22:47:35,415 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.5.0-b32/external-2.5.0-b32.pom
+2017-07-02 22:47:35,606 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.5.0-b32/external-2.5.0-b32.pom
+2017-07-02 22:47:35,815 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.pom
+2017-07-02 22:47:36,040 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.pom
+2017-07-02 22:47:36,214 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.pom
+2017-07-02 22:47:36,398 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.pom
+2017-07-02 22:47:36,675 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2017-07-02 22:47:36,895 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2017-07-02 22:47:37,085 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2017-07-02 22:47:37,273 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2017-07-02 22:47:37,498 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.pom
+2017-07-02 22:47:37,700 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.pom
+2017-07-02 22:47:37,900 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:38,089 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:38,347 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25.1/jersey-container-grizzly2-http-2.25.1.pom
+2017-07-02 22:47:38,537 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25.1/jersey-container-grizzly2-http-2.25.1.pom
+2017-07-02 22:47:38,709 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:38,899 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.25.1/project-2.25.1.pom
+2017-07-02 22:47:39,106 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.pom
+2017-07-02 22:47:39,426 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.pom
+2017-07-02 22:47:39,586 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-project/2.3.28/grizzly-project-2.3.28.pom
+2017-07-02 22:47:39,871 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-project/2.3.28/grizzly-project-2.3.28.pom
+2017-07-02 22:47:40,076 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-bom/2.3.28/grizzly-bom-2.3.28.pom
+2017-07-02 22:47:40,267 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-bom/2.3.28/grizzly-bom-2.3.28.pom
+2017-07-02 22:47:40,466 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.pom
+2017-07-02 22:47:40,659 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.pom
+2017-07-02 22:47:40,818 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.pom
+2017-07-02 22:47:41,008 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.pom
+2017-07-02 22:47:41,202 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.pom
+2017-07-02 22:47:41,398 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.pom
+2017-07-02 22:47:41,623 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.pom
+2017-07-02 22:47:41,817 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.pom
+2017-07-02 22:47:42,019 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.pom
+2017-07-02 22:47:42,215 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.pom
+2017-07-02 22:47:42,456 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2017-07-02 22:47:42,640 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2017-07-02 22:47:42,829 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2017-07-02 22:47:43,037 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2017-07-02 22:47:43,250 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2017-07-02 22:47:43,453 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2017-07-02 22:47:43,648 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2017-07-02 22:47:43,853 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2017-07-02 22:47:44,143 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.pom
+2017-07-02 22:47:44,308 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.pom
+2017-07-02 22:47:44,488 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2017-07-02 22:47:44,677 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2017-07-02 22:47:44,869 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2017-07-02 22:47:45,099 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2017-07-02 22:47:45,411 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/telegram/telegrambots/3.1.0/telegrambots-3.1.0.jar
+2017-07-02 22:47:45,695 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/telegram/telegrambots/3.1.0/telegrambots-3.1.0.jar
+2017-07-02 22:47:45,915 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/telegram/telegrambots-meta/3.1.0/telegrambots-meta-3.1.0.jar
+2017-07-02 22:47:46,353 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/telegram/telegrambots-meta/3.1.0/telegrambots-meta-3.1.0.jar
+2017-07-02 22:47:46,523 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.jar
+2017-07-02 22:47:47,174 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.jar
+2017-07-02 22:47:47,352 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar
+2017-07-02 22:47:47,566 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar
+2017-07-02 22:47:47,826 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.7/jackson-jaxrs-json-provider-2.8.7.jar
+2017-07-02 22:47:48,076 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.7/jackson-jaxrs-json-provider-2.8.7.jar
+2017-07-02 22:47:48,260 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.7/jackson-jaxrs-base-2.8.7.jar
+2017-07-02 22:47:48,569 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.7/jackson-jaxrs-base-2.8.7.jar
+2017-07-02 22:47:48,732 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar
+2017-07-02 22:47:49,083 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar
+2017-07-02 22:47:49,246 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.7/jackson-module-jaxb-annotations-2.8.7.jar
+2017-07-02 22:47:49,660 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.7/jackson-module-jaxb-annotations-2.8.7.jar
+2017-07-02 22:47:49,831 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar
+2017-07-02 22:47:50,702 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar
+2017-07-02 22:47:50,865 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.jar
+2017-07-02 22:47:51,137 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.jar
+2017-07-02 22:47:51,307 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.jar
+2017-07-02 22:47:51,988 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.jar
+2017-07-02 22:47:52,161 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.jar
+2017-07-02 22:47:52,834 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.jar
+2017-07-02 22:47:53,006 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2017-07-02 22:47:53,351 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2017-07-02 22:47:53,517 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.jar
+2017-07-02 22:47:53,801 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.jar
+2017-07-02 22:47:53,976 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25.1/jersey-container-grizzly2-http-2.25.1.jar
+2017-07-02 22:47:54,253 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25.1/jersey-container-grizzly2-http-2.25.1.jar
+2017-07-02 22:47:54,441 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.jar
+2017-07-02 22:47:54,691 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.jar
+2017-07-02 22:47:54,865 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.jar
+2017-07-02 22:47:55,196 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.jar
+2017-07-02 22:47:55,364 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.jar
+2017-07-02 22:47:55,714 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.jar
+2017-07-02 22:47:55,888 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.jar
+2017-07-02 22:47:56,609 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.jar
+2017-07-02 22:47:56,781 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2017-07-02 22:47:57,014 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2017-07-02 22:47:57,178 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.jar
+2017-07-02 22:47:57,928 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.jar
+2017-07-02 22:47:58,100 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.jar
+2017-07-02 22:47:58,382 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.jar
+2017-07-02 22:47:58,551 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.jar
+2017-07-02 22:47:58,756 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.jar
+2017-07-02 22:47:58,924 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2017-07-02 22:47:59,192 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2017-07-02 22:47:59,363 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.jar
+2017-07-02 22:47:59,638 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.jar
+2017-07-02 22:47:59,823 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.jar
+2017-07-02 22:48:00,045 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.jar
+2017-07-02 22:48:00,216 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.jar
+2017-07-02 22:48:00,547 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.jar
+2017-07-02 22:48:00,704 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.jar
+2017-07-02 22:48:00,973 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.jar
+2017-07-02 22:48:01,136 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20160810/json-20160810.jar
+2017-07-02 22:48:01,370 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20160810/json-20160810.jar
+2017-07-02 22:48:01,523 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-07-02 22:48:02,182 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-07-02 22:48:02,352 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-07-02 22:48:02,688 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-07-02 22:48:02,852 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar
+2017-07-02 22:48:03,147 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar
+2017-07-02 22:48:03,309 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2017-07-02 22:48:03,589 [Worker-168] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2017-07-02 22:48:07,068 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:07,071 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:07,075 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:07,079 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:07,840 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:07,841 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:07,841 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:07,844 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:19,473 [Worker-166] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 22:48:19,808 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:19,808 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:19,812 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:19,816 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:20,936 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:20,936 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:20,940 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:20,944 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:29,584 [Worker-161] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 22:48:29,962 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:29,966 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:29,969 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:29,973 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:31,638 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:31,643 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:31,647 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:31,651 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:40,853 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:40,856 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:40,861 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:40,864 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:48:41,943 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:41,944 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:48:41,956 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:48:41,961 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:49:35,677 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:35,682 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:49:35,688 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:35,692 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:49:45,647 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 22:49:45,995 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:45,999 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:49:46,004 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:46,004 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:49:47,515 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:47,515 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:49:47,516 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:49:47,516 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:50:00,810 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:00,810 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:50:00,822 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:00,823 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:50:01,857 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:01,857 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:50:01,858 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:01,859 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:50:23,873 [Worker-178] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crawler:crawler:0.0.1-SNAPSHOT @ C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\pom.xml.
+2017-07-02 22:50:24,090 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:24,093 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:50:24,097 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:24,100 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:50:25,659 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:25,659 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:50:25,660 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:50:25,663 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:52:17,566 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:17,567 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:52:17,574 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:17,581 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:52:18,646 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:18,646 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:52:18,647 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:18,652 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:52:35,312 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:35,317 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:52:35,322 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:35,325 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:52:42,964 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:42,964 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:52:42,964 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:52:42,971 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:55:57,529 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:55:57,536 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:55:57,543 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:55:57,549 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:59:47,337 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:59:47,337 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:59:47,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:59:47,341 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 22:59:53,150 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:59:53,154 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 22:59:53,157 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 22:59:53,161 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:00:31,408 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:00:31,408 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:00:31,409 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:00:31,412 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:00:34,569 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:00:34,574 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:00:34,577 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:00:34,581 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:03:46,375 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:03:46,376 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:03:46,376 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:03:46,381 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:03:52,540 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:03:52,544 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:03:52,548 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:03:52,552 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:04:18,632 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:04:18,633 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:04:18,633 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:04:18,639 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:04:52,828 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:04:52,833 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:04:52,838 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:04:52,843 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:07:37,285 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:07:37,285 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:07:37,287 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:07:37,294 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:07:56,295 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:07:56,300 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:07:56,304 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:07:56,307 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:08:20,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:08:20,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:08:20,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:08:20,821 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:08:46,642 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:08:46,647 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:08:46,653 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:08:46,658 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:09:21,481 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:21,481 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:09:21,482 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:21,487 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:09:24,458 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:24,465 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:09:24,472 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:24,478 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:09:39,978 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:39,978 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:09:39,979 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:09:39,982 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:10:21,141 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:10:21,146 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:10:21,152 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:10:21,158 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:32:27,997 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:32:27,997 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:32:27,997 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:32:28,001 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:35:17,616 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:17,619 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:35:17,622 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:17,625 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:35:21,238 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:21,238 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:35:21,239 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:21,243 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:35:34,289 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:34,295 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:35:34,301 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:35:34,304 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:37:06,690 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:37:06,690 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:37:06,691 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:37:06,696 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:42:01,642 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:01,642 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:42:01,647 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:01,651 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:42:41,697 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:41,697 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:42:41,698 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:41,703 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:42:57,434 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:57,437 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:42:57,440 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:42:57,443 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:43:18,944 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:18,944 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:43:18,945 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:18,948 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:43:31,473 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:31,479 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:43:31,485 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:31,491 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:43:34,801 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:34,801 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:43:34,801 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:43:34,807 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:44:20,874 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:44:20,878 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:44:20,881 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:44:20,885 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:45:00,670 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:45:00,670 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:45:00,671 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:45:00,675 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:45:19,374 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:45:19,378 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:45:19,382 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:45:19,387 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:46:05,101 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:05,101 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:46:05,102 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:05,114 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:46:31,469 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:31,472 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:46:31,476 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:31,479 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:46:34,488 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:34,489 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:46:34,490 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:34,501 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:46:47,872 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:47,877 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:46:47,883 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:46:47,888 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:47:41,528 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:47:41,529 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:47:41,529 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:47:41,536 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:47:47,183 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:47:47,188 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:47:47,194 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:47:47,199 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:48:03,391 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:48:03,392 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:48:03,392 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:48:03,398 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:48:21,977 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:48:21,984 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:48:21,991 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:48:21,998 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:49:03,823 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:03,823 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:49:03,823 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:03,827 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:49:32,644 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:32,649 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:49:32,654 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:32,659 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:49:56,701 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:56,701 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:49:56,702 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:49:56,709 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:50:20,940 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:50:20,944 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:50:20,947 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:50:20,951 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:51:00,054 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:00,054 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:51:00,055 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:00,060 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:51:01,592 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:01,597 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:51:01,602 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:01,605 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:51:16,645 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:16,645 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:51:16,646 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:16,651 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:51:29,182 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:29,186 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:51:29,189 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:51:29,193 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:52:07,402 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:07,402 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:52:07,402 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:07,406 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:52:11,289 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:11,294 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:52:11,299 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:11,304 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:52:14,967 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:14,967 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:52:14,967 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:52:14,971 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:53:00,315 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:00,318 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:53:00,322 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:00,325 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:53:11,258 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:11,258 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:53:11,259 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:11,264 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:53:39,854 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:39,858 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:53:39,861 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:39,864 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:53:41,132 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:41,132 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:53:41,133 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:53:41,139 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-02 23:55:09,927 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:55:09,932 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-02 23:55:09,936 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-02 23:55:09,941 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources

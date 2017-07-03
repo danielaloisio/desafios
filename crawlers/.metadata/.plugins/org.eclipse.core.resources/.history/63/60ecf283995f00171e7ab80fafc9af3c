@@ -1,0 +1,15 @@
+package com.br.crawler;
+
+import java.util.List;
+
+import com.br.crawler.model.RedditData;
+
+public class Crawler {
+	
+
+	public List<RedditData> getRedditData(String[] subReddits){
+		
+		
+	}
+
+}

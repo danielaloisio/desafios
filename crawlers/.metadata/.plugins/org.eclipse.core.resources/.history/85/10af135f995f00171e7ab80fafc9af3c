@@ -1,0 +1,12 @@
+package com.br.crawler;
+
+public class Crawler {
+	
+	
+	
+	public List<RedditData> getRedditData(){
+		
+		
+	}
+
+}
