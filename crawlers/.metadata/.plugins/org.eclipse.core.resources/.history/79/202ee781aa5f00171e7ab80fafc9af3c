@@ -30,7 +30,7 @@ public class Bot extends TelegramLongPollingBot {
 
 			String messageList = "";
 
-			if (update.getMessage().getText().equals("/NadaPraFazer askreddit;worldnews;cats")) {
+			if (update.getMessage().getText().equals("/NadaPraFazer_askreddit;worldnews;cats")) {
 
 				for (RedditData redditData : redditDatas) {
 
@@ -40,7 +40,7 @@ public class Bot extends TelegramLongPollingBot {
 				}
 
 			} else {
-				messageList = "Comando errado, digite /NadaPraFazer askreddit;worldnews;cats";
+				messageList = "Comando errado, digite /NadaPraFazer_askreddit;worldnews;cats";
 			}
 
 			SendMessage message = new SendMessage().setChatId(update.getMessage().getChatId()).setText(messageList);

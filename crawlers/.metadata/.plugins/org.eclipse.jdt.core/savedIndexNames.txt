@@ -31,7 +31,6 @@ INDEX VERSION 1.129+C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\.metad
 785475869.index
 3716033942.index
 2723124133.index
-787068988.index
 3243341224.index
 1665863142.index
 2984576152.index
