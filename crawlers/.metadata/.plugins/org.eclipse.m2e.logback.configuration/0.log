@@ -2576,3 +2576,11 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2017-07-03 21:00:00,223 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
 2017-07-03 21:00:00,229 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-03 21:00:00,232 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-03 21:04:48,142 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 21:04:48,142 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-03 21:04:48,146 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 21:04:48,150 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources
+2017-07-03 21:05:12,493 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 21:05:12,493 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\main\resources
+2017-07-03 21:05:12,499 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 21:05:12,503 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Avell B155\Desktop\Desafio\desafios\crawlers\crawler\src\test\resources

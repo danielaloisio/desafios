@@ -7,8 +7,7 @@ import com.br.crawler.model.RedditData;
 public class App {
 
 	public static void main(String[] args) {
-
-		String input = "askreddit;worldnews;cats";
+		 String input = "askreddit;worldnews;cats";
 
 		String[] subReddits = input.split(";");
 
@@ -23,7 +22,7 @@ public class App {
 				System.out.println("Up votes: " + redditData.getUpVotes());
 				System.out.println("\n");
 			}
-		} else {
+		}else{
 			System.out.println("Nenhum resultado encontrado");
 		}
 
