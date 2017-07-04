@@ -17,36 +17,40 @@ public class Crawler {
 
 		List<RedditData> redditDatas = new ArrayList<RedditData>();
 
-		WebDriver driver = new HtmlUnitDriver();
+		if (subReddits.length > 0) {
 
-		for (String subReddit : subReddits) {
+			WebDriver driver = new HtmlUnitDriver();
 
-			driver.get(CrawlerConst.LINK_REDDIT + subReddit);
+			for (String subReddit : subReddits) {
 
-			List<WebElement> celulas = driver.findElements(By.className("thing"));
+				driver.get(CrawlerConst.LINK_REDDIT + subReddit);
 
-			for (WebElement c : celulas) {
+				List<WebElement> celulas = driver.findElements(By.className("thing"));
 
-				try {
-					int upVotesInteger = Integer.parseInt(c.findElement(By.className("score unvoted")).getText());
+				for (WebElement c : celulas) {
 
-					if (upVotesInteger >= 5000) {
-						RedditData redditData = new RedditData();
-						redditData.setSubReddit(subReddit);
-						redditData.setLinkThread(c.findElement(By.className("title may-blank")).getAttribute("href"));
-						redditData.setTitleThread(c.findElement(By.className("title may-blank")).getText());
-						redditData.setUpVotes(c.findElement(By.className("score unvoted")).getText());
-						redditDatas.add(redditData);
+					try {
+						int upVotesInteger = Integer.parseInt(c.findElement(By.className("score unvoted")).getText());
+
+						if (upVotesInteger >= 5000) {
+							RedditData redditData = new RedditData();
+							redditData.setSubReddit(subReddit);
+							redditData
+									.setLinkThread(c.findElement(By.className("title may-blank")).getAttribute("href"));
+							redditData.setTitleThread(c.findElement(By.className("title may-blank")).getText());
+							redditData.setUpVotes(c.findElement(By.className("score unvoted")).getText());
+							redditDatas.add(redditData);
+						}
+
+					} catch (Exception e) {
+						// TODO: handle exception
 					}
 
-				} catch (Exception e) {
-					// TODO: handle exception
 				}
-
 			}
-		}
 
-		driver.quit();
+			driver.quit();
+		}
 
 		return redditDatas;
 

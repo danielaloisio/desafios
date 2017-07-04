@@ -28,20 +28,40 @@ public class Bot extends TelegramLongPollingBot {
 	public void onUpdateReceived(Update update) {
 		if (update.hasMessage() && update.getMessage().hasText()) {
 
+			String[] messageSplit = update.getMessage().getText().split(" ");
+
 			String messageList = "";
-			
 
-			if (update.getMessage().getText().equals("/NadaPraFazer askreddit;worldnews;cats")) {
+			if (messageSplit[0].equals("/NadaPraFazer")) {
 
-				for (RedditData redditData : redditDatas) {
+				if (messageSplit.length > 1) {
 
-					messageList += "SubReddit: " + redditData.getSubReddit() + "\n" + "Link: "
-							+ redditData.getLinkThread() + "\n" + "Title: " + redditData.getTitleThread() + "\n"
-							+ "Up Votes: " + redditData.getUpVotes() + "\n\n";
+					String input = messageSplit[1];
+
+					String[] subReddits = input.split(";");
+
+					Crawler crawler = new Crawler();
+					redditDatas = crawler.getRedditData(subReddits);
+
+					if (redditDatas.size() > 0) {
+
+						for (RedditData redditData : redditDatas) {
+
+							messageList += "SubReddit: " + redditData.getSubReddit() + "\n" + "Link: "
+									+ redditData.getLinkThread() + "\n" + "Title: " + redditData.getTitleThread() + "\n"
+									+ "Up Votes: " + redditData.getUpVotes() + "\n\n";
+						}
+					} else {
+
+						messageList = "Nenhum resultado encontrado";
+					}
+				} else {
+
+					messageList = "Comando errado, digite por exemplo: /NadaPraFazer askreddit;worldnews;cats";
 				}
 
 			} else {
-				messageList = "Comando errado, digite /NadaPraFazer askreddit;worldnews;cats";
+				messageList = "Comando errado, digite por exemplo: /NadaPraFazer askreddit;worldnews;cats";
 			}
 
 			SendMessage message = new SendMessage().setChatId(update.getMessage().getChatId()).setText(messageList);
@@ -55,13 +75,6 @@ public class Bot extends TelegramLongPollingBot {
 	}
 
 	public static void main(String[] args) {
-
-		String input = "askreddit;worldnews;cats";
-
-		String[] subReddits = input.split(";");
-
-		Crawler crawler = new Crawler();
-		redditDatas = crawler.getRedditData(subReddits);
 
 		ApiContextInitializer.init();
 
