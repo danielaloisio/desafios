@@ -35,4 +35,4 @@ BotName : Kobra123_bot
 
 Execute a classe App para obter a lista de SubReddits.
 
-Execute a classe Bot para obter a lista de SubReddits no Telegram.
+Execute a classe Bot, abra o telegram e digite por exemplo /NadaPraFazer askreddit;worldnews;cats para obter a lista de SubReddits.
